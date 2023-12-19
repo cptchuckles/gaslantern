@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2023-12-19T21:56:43.100Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9UjreEIfzVfMq2eERtVG" version="22.1.11" type="device">
+  <diagram name="Page-1" id="4fYiGfx9TZFoz2g0Wlw5">
+    <mxGraphModel dx="1177" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWFXMLjvcc5xiji2Wtmt-1" target="vWFXMLjvcc5xiji2Wtmt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="550" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-3" value="https://gaslantern.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry y="110" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="12" y="116" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-4" value="GasLantern" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="70" y="125" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-10" value="news.com" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;align=right;collapsible=0;spacingTop=0;spacingRight=10;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="50" y="260" width="450" height="200" as="geometry">
+            <mxRectangle x="50" y="200" width="40" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-11" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-10">
+          <mxGeometry x="50" y="10" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-10">
+          <mxGeometry x="311" y="10" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-13" value="othernews.net" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;align=right;collapsible=0;spacingTop=0;spacingRight=10;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="50" y="490" width="450" height="200" as="geometry">
+            <mxRectangle x="50" y="200" width="40" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-14" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-13">
+          <mxGeometry x="50" y="10" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-13">
+          <mxGeometry x="311" y="10" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-30" value="news.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="50" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-32" value="othernews.net" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="180" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-33" value="somenews.org" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-1">
+          <mxGeometry x="310" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-17" value="News component:" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;swimlaneLine=1;rounded=0;glass=0;shadow=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-18" value="API to get a news article + image" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-19" value="Pipe content through ChatGPT to make it wrong" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry y="60" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-23" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; - Maybe incorporate random fact API" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-20" value="Save mangled article into db by hash of url" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry y="120" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-24" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; - Don&#39;t always generate a new article" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry y="150" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-22" value="Render on page" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry y="180" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.161;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vWFXMLjvcc5xiji2Wtmt-10" target="vWFXMLjvcc5xiji2Wtmt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWFXMLjvcc5xiji2Wtmt-28" value="Infinite scroll, fetches and/or generates more news articles" style="whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;shadow=0;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="870" width="390" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
