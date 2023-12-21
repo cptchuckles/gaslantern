@@ -1,7 +1,16 @@
 require("dotenv").config();
-const { Configuration: OpenAIConfig, OpenAIApi } = require("openai");
+const port = process.env.PORT;
+const express = require("express")
+const app = express();
 
-const openaiconfig = new OpenAIConfig({
-    apiKey: process.env.OPENAI_API_KEY,
-});
-const openai = new OpenAIApi(openaiconfig);
+require("./config/mongoose.config");
+
+app.use(
+    express.json(),
+    express.urlencoded({ extended: true }),
+    require("cors")()
+);
+
+require("./routes/news.routes")(app);
+
+app.listen(port, () => console.log("Listening on port", port));
